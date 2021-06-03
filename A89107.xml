@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the kingdom of Scotland, to the citizens of London, on Wednesday last, Octob. 18. Declaring their resolutions concerning the bringing of the King from the Isle of Wight, to His palace at Westminster, and their chusing of a new Parliament. And their remonstrance and proposals, touching their endeavouring His Majesties restitution to the exercise of His royall power, throughout His realmes and dominions. With a letter from His Highness the Prince of Wales, to Lieu. Generall Cromwell; and a message to the States of Holland from severall Christian Princes, concerning Prince Charles. And their declaration thereupon. Die 19. Octobr. 1648. These papers from Scotland, are appointed to be printed and published, and dispersed throughout the severall respective counties within the Kingdom of England, and dominion of Wales.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89107</idno><idno type="EEBO-CITATION">99864745</idno>
+  <idno type="VID">116977</idno>
+  <idno type="EEBO-PROQUEST">2248540171</idno>
+  
+            <idno type="STC">Wing M1905</idno>
+            <idno type="STC">Thomason E468_16</idno>
+            <idno type="STC">ESTC R205337</idno>
+            <idno type="PROQUEST">99864745</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864745e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116977)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the kingdom of Scotland, to the citizens of London, on Wednesday last, Octob. 18. Declaring their resolutions concerning the bringing of the King from the Isle of Wight, to His palace at Westminster, and their chusing of a new Parliament. And their remonstrance and proposals, touching their endeavouring His Majesties restitution to the exercise of His royall power, throughout His realmes and dominions. With a letter from His Highness the Prince of Wales, to Lieu. Generall Cromwell; and a message to the States of Holland from severall Christian Princes, concerning Prince Charles. And their declaration thereupon. Die 19. Octobr. 1648. These papers from Scotland, are appointed to be printed and published, and dispersed throughout the severall respective counties within the Kingdom of England, and dominion of Wales.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. VVilliamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actually a summary of both the Scottish demands and Prince Charles' letter to Cromwell.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="topical_term">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116977:1"/>
+            <pb facs="tcp:116977:1"/>
+            <p> A MESSAGE SENT From the <hi>Kingdom</hi> of <hi>Scotland,</hi> to the Citizens of <hi>London,</hi> on <hi>Wednesday</hi> last, <hi>Octob.</hi> 18. Declaring their Resolu<g ref="char:EOLhyphen"/>lutions concerning the bringing of the <hi>King</hi> from the Isle of <hi>Wight,</hi> to His Palace at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> and their chusing of a new <hi>Parliament.</hi>
+            </p>
+            <p>AND Their <hi>Remonstrance</hi> and <hi>Proposals,</hi> touching their endeavou<g ref="char:EOLhyphen"/>ring His <hi>Majesties</hi> restitution to the exercise of His <hi>Royall Power,</hi> throughout His <hi>Realmes</hi> and <hi>Dominions.</hi>
+            </p>
+            <p>WITH A <hi>Letter</hi> from His <hi>Highnesse</hi> the Prince of <hi>Wales,</hi> to Lieu. Generall <hi>Cromwell;</hi> And a <hi>Message</hi> to the States of <hi>Holland</hi> from severall Christian Princes, con<g ref="char:EOLhyphen"/>cerning Prince <hi>Charles.</hi> And their <hi>Declaration</hi> thereupon.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die</hi> 19. <hi>Octobr.</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>THese</hi> Papers <hi>from</hi> Scotland, <hi>are appointed to be printed and published, and dispersed throughout the severall re<g ref="char:EOLhyphen"/>spective Counties within the Kingdom of</hi> England, <hi>and Domi<g ref="char:EOLhyphen"/>nion of</hi> Wales.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for R. <hi>VVilliamson,</hi> 1648.</p>
+            <pb facs="tcp:116977:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116977:2"/>
+            <head>A MESSAGE From the Kingdom of SCOTLAND To the Citizens of <hi>London;</hi> shewing their unanimous Resolution to reinvest the <hi>King</hi> in His Royall Throne, and indeavour his Maiesties restitution to the exercise of his <hi>Royall power.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>VVHereas we have studied to set be<g ref="char:EOLhyphen"/>fore our eyes the honour of God, the good of Religion, and true loyal<g ref="char:EOLhyphen"/>ty and allegeance to our Native Soveraign; and to the end it may further appear to this kingdom, and to all
+<pb n="2" facs="tcp:116977:3"/> the world, that no sinister end or worldly design <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> self-interest, hath stirred us up to this course, we doe remonstrate.</p>
+            <p n="1">1 That we have both matter of deep humiliation be<g ref="char:EOLhyphen"/>fore God, and thank giving to him, when we consider his gracious dispensation towards us; in preserving a remnant from following the evill courses of the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that he was pleased so soon after a great defection and back-sliding in the land, to put us into a condition to resist the force and fury of our enemies: in which particular, we look upon our Brethren of <hi>England</hi> to be the chief Instruments therein.</p>
+            <p n="2">2 That whatsoever power God hath already, or shal hereafter put into our hands, we shall improve it for setling and propagating Religion, and promoting the work of <hi>Reformation</hi> according to the <hi>Covenant,</hi> and in particular, to have the liberties of the Kirk ratified, which have bin many ways incroached upon and vio<g ref="char:EOLhyphen"/>lated.</p>
+            <p n="3">3 To vindicate and establish the liberty and proper<g ref="char:EOLhyphen"/>ty of the Subjects, who have been most grievously op<g ref="char:EOLhyphen"/>pressed in their consciences, persons, and estates.</p>
+            <p n="4">4 That we shall indeavour the <hi>Kings Majesties</hi> re<g ref="char:EOLhyphen"/>stitution to the exercise of his <hi>Royall power,</hi> as soon as He shall give security for setling <hi>Religion</hi> in the man<g ref="char:EOLhyphen"/>ner expressed in the Desires of the Kirk, and shall give satisfaction in such other things as shall be found ne<g ref="char:EOLhyphen"/>cessary for the peace and safety of the kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="5">5 That the late unlawfull Engagement against <hi>Eng<g ref="char:EOLhyphen"/>land</hi> shall be disclaimed, and disavowed by the su<g ref="char:EOLhyphen"/>pream Authority of this <hi>Kingdon,</hi> it being most de<g ref="char:EOLhyphen"/>structive to <hi>Rel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gion, Crown,</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Kingdoms.</hi>
+            </p>
+            <p n="6">
+               <pb n="3" facs="tcp:116977:3"/> 6 That the peace and union of the two <hi>Kingdomes</hi> may be strengthned and confirmed.</p>
+            <p n="7">7 That we shall indeavour to purge out of all the Judicatories in this Land, malignancy and prophane<g ref="char:EOLhyphen"/>nesse, and use all other good meanes, that Justice may be equally and impartially administred to all subjects whatsoever within his Majesties Realmes and Domi<g ref="char:EOLhyphen"/>nions.</p>
+            <p n="8">8. That we will faithfully indeavour to have a free <hi>Parliament,</hi> consisting of such persons as have not been accessary to, and furtherers of the late Engagement, for which end we do again hereby require that in the election of Commissioners from Burroughs and Shires to the <hi>Parliament,</hi> the rules and directions set down in our Acts of thee 22 of <hi>September</hi> last, and the 4 of this instant moneth of <hi>October,</hi> may be punctual<g ref="char:EOLhyphen"/>ly observed throughout the <hi>Kingdom.</hi>
+            </p>
+            <p>And we call the searcher of hearts to record that these are our reall and true intentions, and that we doe not, nor shall by the grace of God pursue any private ends or intereits of our own; and we trust the Lord our God who knoweth the sincerity of our resolu<g ref="char:EOLhyphen"/>tions, who hath also had mercy upon us, and hath be<g ref="char:EOLhyphen"/>gun to do so graciously for us, will assist us herein, untill his work shall be accomplished.</p>
+            <closer>This Declaration and Proposals were Ordered to be forthwith printed and published; and communica<g ref="char:EOLhyphen"/>ted to the Citizens of <hi>London,</hi> and the rest of His Majesties liege People within the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               <signed>Signed, <hi>T. HENDERSON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:116977:4"/>
+            <head>A Remonstrance of the Army.</head>
+            <p>Letters from the <hi>Army</hi> say, that their hearts are of known integrity and faithfuluesse, both towards <hi>King, City, and Country,</hi> and are resolved to see the <hi>King</hi> invested, the <hi>Kingdom</hi> setled, and the Liberties &amp; Fran<g ref="char:EOLhyphen"/>chises of the City of <hi>London</hi> firmly preserved and maintained, without any violation whatsoever; and as a testimony of their fidelity, have declared that they will use their utmost endeavours for the composing of all differences, and inthroning of the <hi>King</hi> in his Royal Throne at <hi>Westminster,</hi> and unite Him with His great Councell of <hi>England,</hi> which God grant may speedily be effected. This is the sense of many in the <hi>Army,</hi> al<g ref="char:EOLhyphen"/>though divers objects against the same; especially the Northern party, and their Adherents, who have presen<g ref="char:EOLhyphen"/>ted their <hi>Remonstrance</hi> and <hi>Desires</hi> to both Houses, as followeth.</p>
+            <p>Humbly desiring, That Justice may be impartially and speedily executed upon the grand Delinquents of the <hi>Kingdomes,</hi> especially such as have been the onely promoters of this last Rebellion, who are traytors by the Law of the Land, and ought to be made exemplary without partiality, there being no exception therein to excuse any particular person (though the highest and greatest Incendiary and Delinquent) from Justice, who have confessed themselves guilty of all the bloud, ra<g ref="char:EOLhyphen"/>pine, murther, &amp; almost utter ruine of these three poor dying, and last gasping <hi>Kingdoms,</hi> with whom a Treaty must be had when they are twice conquered, and when God hath delivered them up into the hands of his peo<g ref="char:EOLhyphen"/>ple, to the end Justice may be executed on them, and
+<pb n="5" facs="tcp:116977:4"/> their lives sacrificed as traytors to all future Genera<g ref="char:EOLhyphen"/>tion. Further remonstrating and declaring, that with unex pressible grief of heart, they find the affections of <hi>Parliament</hi> alienated from them, in slighting their just and lawfull addresses, thinking them not worthy of an answer thereunto, whereby they conceive themselves in the capacity of enemies, or not free men, which will justly challenge the same from them, as being their Deputies and Trustees, or else petitioning for things unjust, though they know they are according to their solemn League and Covenant, and their own procee<g ref="char:EOLhyphen"/>dings and printed Declarations, upon which they inga<g ref="char:EOLhyphen"/>ged with them, and for them; and without which, we should never have drawn a sword the second time in their quarrel. And declare, that if their intentions fur<g ref="char:EOLhyphen"/>ther appear (as they have too much of late) to side with, and act for their enemies, and against the interest of them, and all the free Commons of <hi>England,</hi> in ma<g ref="char:EOLhyphen"/>king their enemies and conquered slaves to be their masters and commanders, they must look to and de<g ref="char:EOLhyphen"/>pend upon the law of nature for their preservation a<g ref="char:EOLhyphen"/>gainst those divellish and malignant principle, to which they declare themselves open enemies, and resolve to he utmost of their abilities to oppose, with the losse of lives and fortunes. Protesting, still to keep their first integrity without spot or blemish, and not bow their <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee to <hi>Baal</hi> at the <hi>Kings</hi> Command, neither at the <hi>Par<g ref="char:EOLhyphen"/>iaments,</hi> and that if they act against the truth reposed in them by the people, the people are bound in consci<g ref="char:EOLhyphen"/>ence and duty to act against them, <hi>Salus populi</hi> being <hi>Suprema Lex.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:116977:5"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WE hear that his Highnesse the Prince of <hi>Wales</hi> hath sent a message to Lieut. Gen. <hi>Cromwell</hi> since his return from the City of <hi>Edenburgh,</hi> purpot<g ref="char:EOLhyphen"/>ting his Desires, touching Sir <hi>Marmaduke Langdale,</hi> Major Gen. <hi>Laughorn,</hi> Col. <hi>Iohn Poyer,</hi> and the rest of the Gentlemen who ingaged for his Royal Father the <hi>King,</hi> now under the restraint of the power of <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> requiring, <hi>That they may have the priviledge of Souldiers and Gentlemen, and such accommodation, as may witnesse his integrity to the sons of</hi> Mars, <hi>and spread forth his Honour and Fame throughout all the Camps in</hi> Europe: <hi>And in so doing, He subscribes Himself.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your very loving Friend CHARLES'P.</signed>
+                     <dateline>
+                        <hi>Dated from aboard the Fleet Royall,</hi>
+                        <date>
+                           <hi>the</hi> 14. Octob. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And it is further advertized from the Kingdome of <hi>Scotland,</hi> that the Earl of <hi>Lanerick</hi> is gone to the Prince to advise with his Highnesse, touching the disposall of the Fleet, and to invite them into the North Road, if possible to escape the Earl of <hi>Warwicks</hi> Navy. And it is said, that divers Agents are sent from <hi>France,</hi> and o<g ref="char:EOLhyphen"/>ther places, to treat with the States of <hi>Holland,</hi> for a conjunction between <hi>Vantrump</hi> (Admiral of the <hi>D<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Fleet) and the Prince of <hi>Wales.</hi> But the States disap<g ref="char:EOLhyphen"/>prove thereof, and have declared against the same.</p>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:116977:5"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
